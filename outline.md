@@ -1,18 +1,17 @@
 ---
 title: 'Open Access: Background and Tools for Early Career Researchers in Social Sciences'
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 bibliography: oa_ref.bib
 ---
 
-**workshop**
+**Workshop outline**
 
 ---
 
 **Philippe Joly**  
-Berlin Graduate School of Social Sciences (BGSS)  
-Humboldt-Universität zu Berlin  
+Humboldt-Universität zu Berlin & WZB Berlin Social Science Center  
 Email: jolyphil at hu-berlin.de
 
 **Workshop prepared for: **  
@@ -26,14 +25,13 @@ This workshop aims at giving early career researchers in social sciences a basic
 
 ## Readings
 
-In order to fully participate in the discussion, participants are encouraged to read two texts:
+In order to fully participate in the discussion, participants are encouraged to read the following text:
 
 * [@mckiernan_point_2016]
-* [@bezjak_open_2018]
 
 ## Bring your laptop!
 
-Be sure to bring your laptop: we will try some online tools.
+Be sure to bring your laptop as we will try some online tools.
 
 ## Structure
 
@@ -49,11 +47,10 @@ In this section, we introduce the concept of open access. While most researchers
 
 OA publications are usually available under a specific Creative Commons license. We discuss the different options: CC-0 and variants of CC-BY (-NC, -SA, -ND).
 
-*Small group discussion: Pros and cons (15-20 minutes)*
+*Small group discussion: Pros and cons (time: 15-20 minutes; material: large sheets of paper, post-its, and markers)*
 
 * Participants join in small groups and discuss what are the advantages and disadvantages of different models of OA publishing: green, gold, and hybrid.
 * We regroup in plenary to share our main conclusions. 
-* Material: Large sheets of paper, post-its, and markers.
 
 ### 4. What is the share of open access publications in the scientific literature and what are their impact?
 
@@ -63,11 +60,10 @@ We look at the spread of OA over time in different disciplines and across differ
 
 Authors interested in publishing in gold or hybrid OA usually have to pay "Article Processing Charges" (APC). We look at different funding options, including institutional publication funds.
 
-*Small group discussion: Obstacles and strategies (15-20 minutes)*
+*Small group discussion: Obstacles and strategies (time: 15-20 minutes; material: large sheets of paper, post-its, and markers)*
 
 * Participants join in small groups and discuss what are the obstacles to the adoption of OA publishing in their own institution and what are the good strategies to promote OA publishing in their own institution
 * We regroup in plenary to share our main conclusions. 
-* Material: Large sheets of paper, post-its, and markers.
 
 ### 6. Practical examples
 
@@ -77,34 +73,60 @@ In the last section of the workshop, we go over practical topics that could be o
 
 Preprints allow researchers to publish early research findings and make them available for free. We look at a new preprint repository in social sciences, [SocArXiv](https://socopen.org/), and explain how to link preprints with supplementary documentation, data, and code on the [Open Science Framework](https://osf.io/).
 
-*Quiz (5 minutes)*  
+*Quiz (time: 5 minutes; material: laptops)*  
 
 * Using their laptops, participants search on share.osf.io to find some statistics and papers.
-* Material: Laptops.
 
 #### Selecting an OA journal
 
 There are hundreds of OA journal in social sciences. How to make a choice and how to not fall into the trap of predatory OA journals? We look at the [Directory of Open Access Journals (DOAJ)](https://doaj.org/). For people interested in publishing in green OA, we explore the [Sherpa/Romeo database](http://www.sherpa.ac.uk/romeo/index.php). 
 
-*Quiz (5 minutes)*  
+*Quiz (5 minutes; material: laptops)*  
 
 * Using their laptops, participants search on doaj.org to find some statistics and journals.
-* Material: Laptops.
 
 #### Publishing your dissertation in open access
 
 Publishing your dissertation in OA is an excellent way to make your scientific contribution visible and return what you have learned to the community. We go over the "checklist" prepared by the fellows and mentors of the Freies Wissen Program (forthcoming)
 
-## Resources
+## Further reading
 
 ### General resources on open science
 
 * [@open_science_mooc_notitle_2018]
+* [@bezjak_open_2018]
 
+### The limitations of the closed publication system
 
-## License
+* [@buranyi_is_2017]
+* [@lariviere_oligopoly_2015]
+* [@schiermeier_scientists_2017]
+
+### Open access: definitions
+
+* [@bourne_ten_2017]
+* [@budapest_open_access_initiative_boai15_2017]
+* [@fund_guest_2018]
+
+### Licenses
+
+* [@klimpel_freies_2012]
+* [@redhead_why_2012]
+
+### Diffusion and impact of OA publications
+
+* [@bjork_open_2016]
+* [@piwowar_state_2018]
+* [@tennant_academic_2016]
+
+## Reuse of the material
+
+![&nbsp;](cc_zero_badge.png)
 
 The contents of the workshop are under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+All the material of this workshop (including this outline, the slides, and the bibliography) can be cloned or downloaded from GitHub:  
+https://github.com/jolyphil/oa-workshop 
 
 ## Acknowledgements
 
