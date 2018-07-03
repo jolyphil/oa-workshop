@@ -1,8 +1,8 @@
 ---
 title: 'Open Access: Background and Tools for Early Career Researchers in Social Sciences'
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 bibliography: oa_ref.bib
 ---
 
@@ -15,7 +15,7 @@ Humboldt-Universität zu Berlin & WZB Berlin Social Science Center
 Email: jolyphil at hu-berlin.de
 
 **Workshop prepared for: **  
-Berlin Summer School in Social Sciences
+Berlin Summer School in Social Sciences  
 July 18, 2018 at 4 pm  
 Location: Luisenstr. 56, 10117 Berlin  
 Room: Festsaal  
@@ -122,8 +122,6 @@ Publishing your dissertation in OA is an excellent way to make your scientific c
 * [@tennant_academic_2016]
 
 ## Reuse of the material
-
-![&nbsp;](cc_zero_badge.png)
 
 The contents of the workshop are under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
